@@ -1,0 +1,40 @@
+Driver for set operations. Type '?' for help.
+Command: Init: x = { int1 int2 ... intN }: Command: Init: x = { int1 int2 ... intN }: Command: Union. var1 = var2 + var3: Command: Print. Give set name: -423
+0
+3
+22
+32
+34
+45
+89
+345
+432
+784
+Command: Init: x = { int1 int2 ... intN }: Command: Print. Give set name: 0
+Command: Command: Command: Command: Command: Command: Command: Command: Command: Union. var1 = var2 + var3: Command: Print. Give set name: -423
+0
+3
+22
+32
+34
+45
+89
+345
+432
+784
+Command: Intersection. var1 = var2 * var3: Command: Print. Give set name: 0
+22
+34
+45
+Command: Subtraction. var1 = var2 - var3: Command: Print. Give set name: 32
+89
+432
+784
+Command: Assign: x = y: Command: Print. Give set name: -423
+0
+3
+22
+34
+45
+345
+Command: 
