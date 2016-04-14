@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.77747073/PATH/delimiter=\:
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.77747073/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.77747073/PATH/value=/bin\:/usr/bin\:/usr/sbin\:/sbin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.77747073/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.release.77747073/appendContributed=true
