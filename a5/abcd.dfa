@@ -1,0 +1,50 @@
+4
+a
+b
+c
+d
+8
+start
+null
+a
+ab
+abc
+abca
+abcab
+abcabd
+start
+1
+abcabd
+32
+start a  a
+start b  null
+start c null
+start d null
+null a a
+null b null
+null c null
+null d null
+a a a
+a b ab
+a c null
+a d null
+ab a a
+ab b null
+ab c abc
+ab d null
+abc a abca
+abc b null
+abc c null
+abc d null
+abca a a
+abca b abcab
+abca c null
+abca d null
+abcab a a
+abcab b null
+abcab c abc
+abcab d abcabd
+abcabd a abcabd
+abcabd b abcabd
+abcabd c abcabd
+abcabd d abcabd

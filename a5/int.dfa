@@ -1,0 +1,178 @@
+11
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+-
+18
+start
+neg
+zero
+f1d1
+nf1d1
+bf1d1
+bnf1d1
+f1s2d2
+nf1s2d2
+bf1s2d2
+bnf1s2d2
+f1s2t7d3
+nf1s2t8d3
+bf1s2t7d3
+bnf1s2t8d3
+wrong
+f1s2d2d
+nf1s2d2d
+start
+13
+zero
+f1d1
+nf1d1
+bf1d1
+bnf1d1
+f1s2d2
+nf1s2d2
+bf1s2d2
+bnf1s2d2
+f1s2t7d3
+nf1s2t8d3
+f1s2d2d
+nf1s2d2d
+101
+start 0 zero
+start 1 f1d1
+start 2 bf1d1
+start 3 bf1d1
+start 4 bf1d1
+start 5 bf1d1
+start 6 bf1d1
+start 7 bf1d1
+start 8 bf1d1
+start 9 bf1d1
+start - neg
+neg   0 wrong
+neg   1 nf1d1
+neg   2 bnf1d1
+neg   3 bnf1d1
+neg   4 bnf1d1
+neg   5 bnf1d1
+neg   6 bnf1d1
+neg   7 bnf1d1
+neg   8 bnf1d1
+neg   9 bnf1d1
+f1d1  0 f1s2d2d
+f1d1  1 f1s2d2d
+f1d1  2 f1s2d2
+f1d1  3 bf1s2d2
+f1d1  4 bf1s2d2
+f1d1  5 bf1s2d2
+f1d1  6 bf1s2d2
+f1d1  7 bf1s2d2
+f1d1  8 bf1s2d2
+f1d1  9 bf1s2d2
+bf1d1 0 bf1s2d2
+bf1d1 1 bf1s2d2
+bf1d1 2 bf1s2d2
+bf1d1 3 bf1s2d2
+bf1d1 4 bf1s2d2
+bf1d1 5 bf1s2d2
+bf1d1 6 bf1s2d2
+bf1d1 7 bf1s2d2
+bf1d1 8 bf1s2d2
+bf1d1 9 bf1s2d2
+nf1d1 0 nf1s2d2d
+nf1d1 1 nf1s2d2d
+nf1d1 2 nf1s2d2
+nf1d1 3 bnf1s2d2
+nf1d1 4 bnf1s2d2
+nf1d1 5 bnf1s2d2
+nf1d1 6 bnf1s2d2
+nf1d1 7 bnf1s2d2
+nf1d1 8 bnf1s2d2
+nf1d1 9 bnf1s2d2
+bnf1d1 0 bnf1s2d2
+bnf1d1 1 bnf1s2d2
+bnf1d1 2 bnf1s2d2
+bnf1d1 3 bnf1s2d2
+bnf1d1 4 bnf1s2d2
+bnf1d1 5 bnf1s2d2
+bnf1d1 6 bnf1s2d2
+bnf1d1 7 bnf1s2d2
+bnf1d1 8 bnf1s2d2
+bnf1d1 9 bnf1s2d2
+f1s2d2d 0 f1s2t7d3
+f1s2d2d 1 f1s2t7d3
+f1s2d2d 2 f1s2t7d3
+f1s2d2d 3 f1s2t7d3
+f1s2d2d 4 f1s2t7d3
+f1s2d2d 5 f1s2t7d3
+f1s2d2d 6 f1s2t7d3
+f1s2d2d 7 f1s2t7d3
+f1s2d2d 8 f1s2t7d3
+f1s2d2d 9 f1s2t7d3
+nf1s2d2d 0 nf1s2t8d3
+nf1s2d2d 1 nf1s2t8d3
+nf1s2d2d 2 nf1s2t8d3
+nf1s2d2d 3 nf1s2t8d3
+nf1s2d2d 4 nf1s2t8d3
+nf1s2d2d 5 nf1s2t8d3
+nf1s2d2d 6 nf1s2t8d3
+nf1s2d2d 7 nf1s2t8d3
+nf1s2d2d 8 nf1s2t8d3
+nf1s2d2d 9 nf1s2t8d3
+f1s2d2 0 f1s2t7d3
+f1s2d2 1 f1s2t7d3
+f1s2d2 2 f1s2t7d3
+f1s2d2 3 f1s2t7d3
+f1s2d2 4 f1s2t7d3
+f1s2d2 5 f1s2t7d3
+f1s2d2 6 f1s2t7d3
+f1s2d2 7 f1s2t7d3
+f1s2d2 8 bf1s2t7d3
+f1s2d2 9 bf1s2t7d3
+nf1s2d2 0 nf1s2t8d3
+nf1s2d2 1 nf1s2t8d3
+nf1s2d2 2 nf1s2t8d3
+nf1s2d2 3 nf1s2t8d3
+nf1s2d2 4 nf1s2t8d3
+nf1s2d2 5 nf1s2t8d3
+nf1s2d2 6 nf1s2t8d3
+nf1s2d2 7 nf1s2t8d3
+nf1s2d2 8 nf1s2t8d3
+nf1s2d2 9 wrong
+bf1s2d2 0 wrong
+bf1s2d2 1 wrong
+bf1s2d2 2 wrong
+bf1s2d2 3 wrong
+bf1s2d2 4 wrong
+bf1s2d2 5 wrong
+bf1s2d2 6 wrong
+bf1s2d2 7 wrong
+bf1s2d2 8 wrong
+bf1s2d2 9 wrong
+bnf1s2d2 0 wrong
+bnf1s2d2 1 wrong
+bnf1s2d2 2 wrong
+bnf1s2d2 3 wrong
+bnf1s2d2 4 wrong
+bnf1s2d2 5 wrong
+bnf1s2d2 6 wrong
+bnf1s2d2 7 wrong
+bnf1s2d2 8 wrong
+bnf1s2d2 9 wrong
+wrong 0 wrong
+wrong 1 wrong
+wrong 2 wrong
+wrong 3 wrong
+wrong 4 wrong
+wrong 5 wrong
+wrong 6 wrong
+wrong 7 wrong
+wrong 8 wrong
+wrong 9 wrong

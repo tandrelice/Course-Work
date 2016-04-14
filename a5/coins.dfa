@@ -1,0 +1,141 @@
+4
+nickel
+dime
+quarter
+loonie
+27
+toomuch
+125
+120
+115
+110
+105
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+0
+1
+125
+104
+0    nickel     5
+0    dime     10
+0    quarter     25
+0    loonie     100
+5    nickel     10
+5    dime     15
+5    quarter     30
+5    loonie     105
+10    nickel     15
+10    dime     20
+10    quarter     35
+10    loonie     110
+15    nickel     20
+15    dime     25
+15    quarter     40
+15    loonie     115
+20    nickel     25
+20    dime     30
+20    quarter     45
+20    loonie     120
+25    nickel     30
+25    dime     35
+25    quarter     50
+25    loonie     125
+30    nickel     35
+30    dime     40
+30    quarter     55
+30    loonie     toomuch
+35    nickel     40
+35    dime     45
+35    quarter     60
+35    loonie     toomuch
+40    nickel     45
+40    dime     50
+40    quarter     65
+40    loonie     toomuch
+45    nickel     50
+45    dime     55
+45    quarter     70
+45    loonie     toomuch
+50    nickel     55
+50    dime     60
+50    quarter     75
+50    loonie     toomuch
+55    nickel     60
+55    dime     65
+55    quarter     80
+55    loonie     toomuch
+60    nickel     65
+60    dime     70
+60    quarter     85
+60    loonie     toomuch
+65    nickel     70
+65    dime     75
+65    quarter     90
+65    loonie     toomuch
+70    nickel     75
+70    dime     80
+70    quarter     95
+70    loonie   	 toomuch
+75    nickel     80
+75    dime     85
+75    quarter     100
+75    loonie     toomuch
+80    nickel     85
+80    dime     90
+80    quarter     105
+80    loonie     toomuch
+85    nickel     90
+85    dime     95
+85    quarter     110
+85    loonie     toomuch
+90    nickel     95
+90    dime     100
+90    quarter     115
+90    loonie     toomuch
+95    nickel     100
+95    dime     105
+95    quarter     120
+95    loonie     toomuch
+100    nickel     105
+100    dime     110
+100    quarter     125
+100    loonie     toomuch
+105    nickel     110
+105    dime     115
+105    quarter     toomuch
+105    loonie     toomuch
+110    nickel     115
+110    dime     120
+110    quarter     toomuch
+110    loonie     toomuch
+115    nickel     120
+115    dime     125
+115    quarter     toomuch
+115    loonie     toomuch
+120    nickel     125
+120    dime     toomuch
+120    quarter     toomuch
+120    loonie     toomuch
+toomuch nickel toomuch
+toomuch quarter toomuch
+toomuch dime toomuch
+toomuch loonie toomuch
